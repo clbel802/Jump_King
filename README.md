@@ -1,2 +1,2 @@
-# Jump_King
+# Jump King
 fun game
